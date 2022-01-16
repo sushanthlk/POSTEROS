@@ -1,0 +1,20 @@
+/* Custom.css < Do your own thing! */
+
+body {
+    background: transparent;
+}
+
+.a-logo {
+    width: 50px;
+}
+
+.a-text {
+    margin-left: 55px;
+    font-weight: 200;
+}
+
+.a-btn {
+    color: black !important;
+    background: none !important;
+    border: 1px solid rgb(0, 0, 0) !important;
+}
