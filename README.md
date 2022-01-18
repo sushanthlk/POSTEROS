@@ -1,1 +1,1 @@
-# POSTEROS
+# POSTEROS Studio
